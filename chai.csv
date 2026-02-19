@@ -1,0 +1,9 @@
+id,tea_type,milk,sugar,price,is_favorite
+1,Masala Chai,Yes,2,40,1
+2,Ginger Chai,Yes,1,35,1
+3,Black Tea,No,0,25,0
+4,Green Tea,No,0,30,0
+5,Cardamom Chai,Yes,2,45,1
+6,Lemon Tea,No,1,28,0
+7,Tulsi Chai,Yes,1,38,1
+8,Milk Tea,Yes,3,32,0
